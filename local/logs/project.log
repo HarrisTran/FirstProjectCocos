@@ -1,0 +1,104 @@
+2022-08-23T13:50:45.325Z - success: protocol editor-framework registered
+2022-08-23T13:50:45.326Z - success: protocol app registered
+2022-08-23T13:50:45.326Z - success: protocol theme registered
+2022-08-23T13:50:45.326Z - success: protocol packages registered
+2022-08-23T13:50:45.333Z - normal: Load ~/.CocosCreator/settings.json
+2022-08-23T13:50:45.343Z - success: protocol uuid registerred
+2022-08-23T13:50:45.343Z - success: protocol db registerred
+2022-08-23T13:50:45.343Z - success: protocol thumbnail registerred
+2022-08-23T13:50:45.386Z - normal: Initializing Asset Database
+2022-08-23T13:50:45.387Z - normal: checking language setting...
+2022-08-23T13:50:45.387Z - normal: Language: en
+2022-08-23T13:50:45.388Z - success: protocol unpack registerred
+2022-08-23T13:50:45.388Z - success: protocol disable-commonjs registerred
+2022-08-23T13:50:48.501Z - normal: failed to connect login server due to request timeout
+2022-08-23T13:50:48.503Z - normal: Check project /Users/trandangkhoa/Downloads/cocos-tutorial-first-game-2.4/start_project
+2022-08-23T13:50:48.504Z - normal: Initializing project /Users/trandangkhoa/Downloads/cocos-tutorial-first-game-2.4/start_project
+2022-08-23T13:50:48.597Z - success: adapters loaded
+2022-08-23T13:50:48.599Z - success: asset-db-debugger loaded
+2022-08-23T13:50:48.634Z - success: fb-audience-network loaded
+2022-08-23T13:50:48.654Z - success: fb-live-stream loaded
+2022-08-23T13:50:48.655Z - success: google-play-instant loaded
+2022-08-23T13:50:48.655Z - success: jsb-adapter loaded
+2022-08-23T13:50:48.657Z - success: package-manager loaded
+2022-08-23T13:50:48.657Z - success: runtime-adapters loaded
+2022-08-23T13:50:48.658Z - success: runtime-dev-tools loaded
+2022-08-23T13:50:48.659Z - success: ui-kit-preview-extra loaded
+2022-08-23T13:50:48.661Z - success: ui-kit-preview loaded
+2022-08-23T13:50:49.063Z - success: alipay-minigame loaded
+2022-08-23T13:50:49.067Z - success: assets loaded
+2022-08-23T13:50:49.069Z - success: baidugame-opendata loaded
+2022-08-23T13:50:49.070Z - success: baidugame loaded
+2022-08-23T13:50:49.071Z - success: builder loaded
+2022-08-23T13:50:49.073Z - success: bytedance-opendata loaded
+2022-08-23T13:50:49.075Z - success: bytedance loaded
+2022-08-23T13:50:49.077Z - success: channel-upload-tools loaded
+2022-08-23T13:50:49.144Z - success: cloud-function loaded
+2022-08-23T13:50:49.244Z - success: cocos-services loaded
+2022-08-23T13:50:49.246Z - success: console loaded
+2022-08-23T13:50:49.247Z - success: curve-editor loaded
+2022-08-23T13:50:49.252Z - success: fb-instant-games loaded
+2022-08-23T13:50:49.254Z - success: game-window loaded
+2022-08-23T13:50:49.255Z - success: google-instant-games loaded
+2022-08-23T13:50:49.257Z - success: hierarchy loaded
+2022-08-23T13:50:49.258Z - success: huawei-agc loaded
+2022-08-23T13:50:49.260Z - success: huawei-runtime loaded
+2022-08-23T13:50:49.262Z - success: inspector loaded
+2022-08-23T13:50:49.270Z - success: cpk-publish loaded
+2022-08-23T13:50:49.271Z - success: keystore loaded
+2022-08-23T13:50:49.280Z - success: link-sure-runtime loaded
+2022-08-23T13:50:49.285Z - success: node-library loaded
+2022-08-23T13:50:49.287Z - success: open-recent-items loaded
+2022-08-23T13:50:49.288Z - success: oppo-runtime loaded
+2022-08-23T13:50:49.290Z - success: package-asset loaded
+2022-08-23T13:50:49.290Z - success: preferences loaded
+2022-08-23T13:50:49.292Z - success: project-importer loaded
+2022-08-23T13:50:49.294Z - success: project-settings loaded
+2022-08-23T13:50:49.302Z - success: qtt-runtime loaded
+2022-08-23T13:50:49.304Z - success: scene loaded
+2022-08-23T13:50:49.305Z - success: simulator-debugger loaded
+2022-08-23T13:50:49.305Z - success: sprite-editor loaded
+2022-08-23T13:50:49.337Z - success: store loaded
+2022-08-23T13:50:49.339Z - success: taobao-creativeapp loaded
+2022-08-23T13:50:49.341Z - success: timeline loaded
+2022-08-23T13:50:49.345Z - success: vivo-runtime loaded
+2022-08-23T13:50:49.346Z - success: wechatgame-opendata loaded
+2022-08-23T13:50:49.350Z - success: wechatgame loaded
+2022-08-23T13:50:49.352Z - success: xiaomi-runtime loaded
+2022-08-23T13:50:49.387Z - success: im-plugin loaded
+2022-08-23T13:50:49.387Z - success: preview server running at http://localhost:7456
+2022-08-23T13:50:49.831Z - normal: Initializing Cocos2d
+2022-08-23T13:50:49.990Z - normal: Initializing engine extends
+2022-08-23T13:50:51.830Z - normal: Loading packages
+2022-08-23T13:50:51.831Z - normal: Run Application
+2022-08-23T13:50:53.789Z - success: cloud-function unloaded
+2022-08-23T13:50:54.103Z - info: Cocos Service load base data!
+2022-08-23T13:50:58.847Z - success: TypeScript Configuration file has been copied to /Users/trandangkhoa/Downloads/cocos-tutorial-first-game-2.4/start_project/tsconfig.json
+2022-08-23T15:01:43.414Z - success: API data generated and copied to /Users/trandangkhoa/Downloads/cocos-tutorial-first-game-2.4/start_project/creator.d.ts
+2022-08-23T15:01:49.924Z - success: TypeScript Configuration file has been copied to /Users/trandangkhoa/Downloads/cocos-tutorial-first-game-2.4/start_project/tsconfig.json
+2022-08-23T19:26:35.617Z - failed: Error: spawn python ENOENT
+    at Process.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:465:16)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn python',
+  path: 'python',
+  spawnargs: [
+    '-c',
+    <Buffer 69 6d 70 6f 72 74 20 6c 6f 63 61 6c 65 0a 0a 73 79 73 5f 6c 61 6e 67 2c 20 65 6e 63 6f 64 69 6e 67 20 3d 20 6c 6f 63 61 6c 65 2e 67 65 74 64 65 66 61 ... 28 more bytes>
+  ]
+}
+2022-08-23T19:26:39.899Z - failed: Error: spawn python ENOENT
+    at Process.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:465:16)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn python',
+  path: 'python',
+  spawnargs: [
+    '-c',
+    <Buffer 69 6d 70 6f 72 74 20 6c 6f 63 61 6c 65 0a 0a 73 79 73 5f 6c 61 6e 67 2c 20 65 6e 63 6f 64 69 6e 67 20 3d 20 6c 6f 63 61 6c 65 2e 67 65 74 64 65 66 61 ... 28 more bytes>
+  ]
+}
